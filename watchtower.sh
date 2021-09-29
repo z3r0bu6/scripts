@@ -1,5 +1,4 @@
-docker run -d \
---name watchtower \
+docker run -d --name watchtower \
 --restart=always \
 -e TZ=Europe/Copenhagen \
 -e WATCHTOWER_CLEANUP=true \
