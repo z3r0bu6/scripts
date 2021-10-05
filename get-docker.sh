@@ -628,4 +628,3 @@ do_install() {
 # wrapped up in a function so that we have some protection against only getting
 # half the file during "curl | sh"
 do_install
-apt install docker-compose -y
