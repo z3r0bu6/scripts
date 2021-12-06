@@ -2,7 +2,7 @@ docker run -d \
   --name=littlelink-server \
   -p 8080:3000 \
   -e META_TITLE='z3r0bug' \
-  -e META_DESCRIPTION='z3r0bug´s Page' \
+  -e META_DESCRIPTION='z3r0bugs Page' \
   -e META_AUTHOR='z3r0bug' \
   -e LANG=en \
   -e META_INDEX_STATUS='noindex' \
